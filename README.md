@@ -271,4 +271,4 @@ Hosted by UKFin+ and Imperial College London.
 
 ## Licence
 
-*(choose one — MIT is the usual default for hackathon repos)*
+*MIT License*
