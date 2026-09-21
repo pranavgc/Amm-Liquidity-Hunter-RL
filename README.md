@@ -259,7 +259,7 @@ We would rather state these than have someone find them.
 
 Three-person team, 48 hours. All three of us worked across every agent and the evaluation.
 
-- *Aditya Narayan Singh* — https://github.com/…
+- *Aditya Narayan Singh* — [https://github.com/…](https://github.com/LiveAdityaSingh)
 - *Chandrabhushan Prasad* — [https://github.com/…](https://github.com/CbPrasad07)
 - *Pranav Ganesh Chandratre* — [https://github.com/…
 ](https://github.com/pranavgc)
